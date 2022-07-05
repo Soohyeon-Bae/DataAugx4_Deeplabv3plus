@@ -28,3 +28,11 @@
 - 딥러닝은 robust하다고 하지만, 같은 도메인이더라도 noisy data를 함께 학습한 경우에 성능이 떨어짐(실험0, 1)
 - 관련성이 낮은 데이터를 sorting하지 않고 학습한 경우 가장 성능이 나쁨(실험2)
 - 관련성이 있는 데이터+같은 도메인 자료를 함께 학습할 때 성능이 좋음(실험3, 4)
+
+
+## 실험 결과 
+(updated 22.07.05)
+
+![image](https://user-images.githubusercontent.com/94159857/177283437-d7162921-744b-4bcb-a6f7-2e8e34b0e7e6.png)
+
+![image](https://user-images.githubusercontent.com/94159857/177283353-287036c1-bddf-4e05-9c38-735399ab274a.png)
