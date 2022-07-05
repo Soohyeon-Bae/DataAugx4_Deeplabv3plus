@@ -31,7 +31,7 @@
 
 
 ## 실험 결과 
-(updated 22.07.05)
+(updated 22.07.05.)
 
 ![image](https://user-images.githubusercontent.com/94159857/177283437-d7162921-744b-4bcb-a6f7-2e8e34b0e7e6.png)
 
