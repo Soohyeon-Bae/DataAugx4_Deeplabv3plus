@@ -10,7 +10,7 @@ https://github.com/open-mmlab/mmsegmentation
 4. mmsegmentation 설치
 
 
-## Train
+## Train 
 
 ```
 python3 tools/train.py configs/deeplabv3plus/[YOUR_CONFIG_FILE]
